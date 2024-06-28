@@ -151,6 +151,6 @@ ________________________________________________________________________________
 
 Dataset schema:
 
-![image](https://github.com/ankit-verma2000/Target-sql-/assets/150786247/3c2772f9-2097-45d0-9702-7e449c5c65ae)
+(https://raw.githubusercontent.com/yashika-malhotra/Strategic-Analysis-of-Retail-Brand-in-South-America-using-SQL/main/Dataset%20schema.png)
 
 ___________________________________________________________________________________________________________
