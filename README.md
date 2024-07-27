@@ -33,12 +33,12 @@ Features | Description |
 customer_id | ID of the consumer who made the purchase | 
 customer_unique_id | Unique ID of the consumer | 
 customer_zip_code_prefix | Zip Code of consumer’s location | 
-customer_city | Name of the City from where order is made | 
-customer_state | State Code from where order is made (Eg. são paulo - SP) |
+customer_city | Name of the City from where the order is made | 
+customer_state | State Code from where the order is made (Eg. são Paulo - SP) |
 
 <br/> <hr/>
 
-The sellers.csv contains following features:
+The sellers.csv contains the following features:
 
 Features | Description | 
 --- | --- 
@@ -117,7 +117,7 @@ review_answer_timestamp | Timestamp of the review answered |
 
 <br/> <hr/>
 
-The products.csv contains following features:
+The products.csv contains the following features:
 
 Features | Description | 
 --- | --- 
